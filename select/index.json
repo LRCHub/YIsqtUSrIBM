@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "アヤノの幸福理論",
+  "base_artist": "じん",
+  "createdAt": "2026-02-14T16:26:58.065447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ayano's Theory of Happiness (English Cover)【JubyPhonic】アヤノの幸福理論",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/01_Ayano's_Theory_of_Happiness_(English_Cover)【JubyPhonic】アヤノの幸福理論_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アヤノの幸福理論",
+      "artist": "じん ft.奥井亜紀",
+      "has_synced": true,
+      "path": "select/02_アヤノの幸福理論_じん_ft.奥井亜紀.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アヤノの幸福理論",
+      "artist": "じん",
+      "has_synced": true,
+      "path": "select/03_アヤノの幸福理論_じん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アヤノの幸福理論",
+      "artist": "じん ft. 奥井亜紀",
+      "has_synced": true,
+      "path": "select/04_アヤノの幸福理論_じん_ft._奥井亜紀.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アヤノの幸福理論",
+      "artist": "じん feat. 奥井亜紀",
+      "has_synced": true,
+      "path": "select/05_アヤノの幸福理論_じん_feat._奥井亜紀.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アヤノの幸福理論 (Full Mix)",
+      "artist": "じん",
+      "has_synced": true,
+      "path": "select/06_アヤノの幸福理論_(Full_Mix)_じん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アヤノの幸福理論",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/07_アヤノの幸福理論_じん.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アヤノの幸福理論",
+      "artist": "じん feat.奥井亜紀",
+      "has_synced": true,
+      "path": "select/08_アヤノの幸福理論_じん_feat.奥井亜紀.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アヤノの幸福理論 (Instrumental)",
+      "artist": "じん (自然の敵P)",
+      "has_synced": true,
+      "path": "select/09_アヤノの幸福理論_(Instrumental)_じん_(自然の敵P).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アヤノの幸福理論",
+      "artist": "じん (自然の敵P)",
+      "has_synced": true,
+      "path": "select/10_アヤノの幸福理論_じん_(自然の敵P).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アヤノの幸福理論",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_アヤノの幸福理論_じん.txt"
+    }
+  ]
+}
